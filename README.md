@@ -3,11 +3,13 @@
 Sistema Simple de Anti Cheat Programado y echo por Hannibal Tho Multi Theft Auto: San Andreas
 
 ## 📺 Vista Previa
-[![Vista Previa del Anti-Cheat](https://img.youtube.com/vi/TU-VIDEO-ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=Oq8J3o6Y4VE&ab_channel=HANNIBALH4X)
+<a href="https://www.youtube.com/watch?v=Oq8J3o6Y4VE">
+    <img src="https://i.ytimg.com/an_webp/Oq8J3o6Y4VE/mqdefault_6s.webp?du=3000&sqp=CNmx7L8G&rs=AOn4CLBxdgxeHoNQBGVBDNhAZIm28mh83Q" alt="Vista Previa del Anti-Cheat" width="480" height="360"/>
+</a>
 
 ## 🔗 Enlaces Importantes
-[![Tutorial](https://img.shields.io/badge/Tutorial-YouTube-red.svg)](https://youtu.be/Oq8J3o6Y4VE?si=HUtj7jiErd3cbjD5)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/4svwzsy3UP)
+[![Tutorial](https://img.shields.io/badge/Tutorial-YouTube-red.svg)](https://youtube.com/link-al-tutorial)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/tu-invitacion)
 
 ## 🛡️ Características
 
