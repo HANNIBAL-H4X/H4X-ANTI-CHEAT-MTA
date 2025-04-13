@@ -8,8 +8,8 @@ Sistema Simple de Anti Cheat Programado y echo por Hannibal Tho Multi Theft Auto
 </a>
 
 ## 🔗 Enlaces Importantes
-[![Tutorial](https://img.shields.io/badge/Tutorial-YouTube-red.svg)](https://youtube.com/link-al-tutorial)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/tu-invitacion)
+[![Tutorial](https://img.shields.io/badge/Tutorial-YouTube-red.svg)](https://www.youtube.com/watch?v=Oq8J3o6Y4VE&ab_channel=TODOHACKOFFICIAL)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/4svwzsy3UP)
 
 ## 🛡️ Características
 
