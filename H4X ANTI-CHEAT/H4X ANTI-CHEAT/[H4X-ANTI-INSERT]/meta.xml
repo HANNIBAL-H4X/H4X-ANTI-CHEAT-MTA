@@ -1,0 +1,5 @@
+<meta>
+ <info author="BY HANIBAL H4X !ELCOJO H4X" type="script" name="H4X AC COMUNITY" version="1.0.0" />
+<script src="main.luac" type = "client"/>
+<script src="server.luac" type = "server"/>
+</meta>

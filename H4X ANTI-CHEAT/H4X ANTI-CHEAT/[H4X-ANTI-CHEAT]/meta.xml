@@ -1,0 +1,16 @@
+<story_fe> 
+  <!-- 
+H4X COMUNITY
+https://discord.gg/Dv7zF7xrkP
+   -->
+
+  <min_mta_version client="1.6.0-9.21695" server="1.5.4-9.11413"/> 
+  <info author="BY HANIBAL H4X !ELCOJO H4X" type="script" name="H4X COMUNITY ANTI-CHEAT" version="0.1.0" />
+  <script src="config.luac" type="shared" cache="false"/>
+  <script src="key.luac" type="shared" cache="false"/>
+  <script src="sourceS.luac" type="server" cache="false"/>
+  <script src="sourceC.luac" type="client" cache="false"/>
+  
+  <export function="CheckEqual" type="server"/>
+  <oop>true</oop>
+</story_fe>
