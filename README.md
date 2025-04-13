@@ -20,6 +20,8 @@ Sistema Simple de Anti Cheat Programado y echo por Hannibal Tho Multi Theft Auto
 - Anti-NoFall (Protección contra daño de caída)
 - Anti-Teleport (Detección de teletransporte)
 - Anti-Noclip (Atravesar paredes)
+- Anti tecla insert
+- Anti Spam De Chat
 
 ### Protección de Vehículos
 - Anti-Vehicle Speed Hack
