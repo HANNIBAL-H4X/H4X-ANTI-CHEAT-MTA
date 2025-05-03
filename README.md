@@ -4,7 +4,7 @@ Sistema Simple de Anti Cheat Programado y echo por Hannibal Tho Multi Theft Auto
 
 ## 📺 Vista Previa
 <a href="https://www.youtube.com/watch?v=Oq8J3o6Y4VE">
-    <img src="https://i.ytimg.com/an_webp/Oq8J3o6Y4VE/mqdefault_6s.webp?du=3000&sqp=CMb38L8G&rs=AOn4CLBnJe78WRgPA6_pzW_y1QN1PO2o9w" alt="Vista Previa del Anti-Cheat" width="480" height="260"/>
+    <img src="https://i.ytimg.com/an_webp/Oq8J3o6Y4VE/mqdefault_6s.webp?du=3000&sqp=CPLq2cAG&rs=AOn4CLCR8sK8lYp1Y1WJO7TUXJnNcgeScQ" alt="Vista Previa del Anti-Cheat" width="480" height="260"/>
 </a>
 
 ## 🔗 Enlaces Importantes
